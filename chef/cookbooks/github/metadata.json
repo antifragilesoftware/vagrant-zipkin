@@ -1,0 +1,31 @@
+{
+  "name": "github",
+  "description": "A Library Cookbook for interacting with the Github API",
+  "long_description": "A Library Cookbook for interacting with the Github API",
+  "maintainer": "Jamie Winsor",
+  "maintainer_email": "jamie@vialstudios.com",
+  "license": "Apache 2.0",
+  "platforms": {
+    "ubuntu": ">= 0.0.0"
+  },
+  "dependencies": {
+    "libarchive": ">= 0.0.0"
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+  },
+  "version": "0.3.0"
+}

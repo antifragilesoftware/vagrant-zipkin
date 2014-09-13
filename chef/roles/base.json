@@ -1,0 +1,13 @@
+{
+  "name": "base",
+  "description": "Base install",
+  "chef_type": "role",
+  "json_class": "Chef::Role",
+
+  "run_list": [
+  	"recipe[apt]",
+    "recipe[build-essential]",
+	"recipe[java::openjdk]",
+    "recipe[zipkin]"
+  ]
+}
