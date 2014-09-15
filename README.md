@@ -14,7 +14,7 @@ This template also uses..
 
 * Vagrant Omnibus plugin - https://github.com/schisamo/vagrant-omnibus
 
-  To update the version of Chef in the base box to a later version
+  So that the version of Chef in the base box is updated to a later version. To install the plugin:
  
 ```
 vagrant plugin install vagrant-omnibus
@@ -22,7 +22,6 @@ vagrant plugin install vagrant-omnibus
 
 * Various dependant cookbooks from the Chef Supermarket...
  
-
 
 
 ## Tested With
