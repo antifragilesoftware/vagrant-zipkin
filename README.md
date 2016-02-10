@@ -1,11 +1,12 @@
 # Vagrant-Zipkin
 
-A quickly cobbled together Vagrant config to install & boot Zipkin for a hack around.
+A quickly cobbled together Vagrant config to install & boot Zipkin.
 
 Utilises the Chef cookbook from https://github.com/dpkp/chef-zipkin
 
 
 ## Uses
+
 This template also uses..
 
 * Ubuntu 12.04 basebox with Ruby 1.9.3 and Chef 10.x?? pre-installed
@@ -21,9 +22,4 @@ vagrant plugin install vagrant-omnibus
 ```
 
 * Various dependant cookbooks from the Chef Supermarket...
- 
 
-
-## Tested With
-* Vagrant 1.6.3
-* Oracle VM Virtual Box 4.3.6
